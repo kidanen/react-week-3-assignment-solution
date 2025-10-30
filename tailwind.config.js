@@ -6,4 +6,5 @@ export default {
     extend: {},
   },
   plugins: [],
+  base: 'https://github.com/kidanen/react-week-3-assignment-solution',
 };
