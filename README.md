@@ -162,7 +162,7 @@ Dark Mode
 🔗 Live Demo
 ![alt text](image-3.png)
 Deployed on Vercel / Netlify / GitHub Pages:
-
+https://kidanen.github.io/react-week-3-assignment-solution/
 https://react-week3.vercel.app
  (replace with your actual URL)
 
